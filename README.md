@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexChadwickP
 - 👀 I’m interested in Music, Media and Programming!
-- 🌱 I’m currently learning how to start a business
+- 🌱 I’m currently interning with Sensize
 - 💞️ I’m looking to collaborate on anything that may be of interest to me!
 
 <!---
