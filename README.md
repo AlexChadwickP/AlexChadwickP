@@ -14,4 +14,4 @@ I love sharing my journey with people and often have coffee chats with new devel
 - 💬 Ask me about: Vue, Jamstack, Building Career In Tech, Content Creation.
 - 📫 How to reach me: [@TheAlexChadwick](https://twitter.com/thealexchadwick)
 - ⚡ Fun fact: I enjoy music and can play the guitar and a little bass!
-- 👷‍♂️ I'm currently working on a (task manager)[https://github.com/AlexChadwickP/task-manager]
+- 👷‍♂️ I'm currently working on a [task manager](https://github.com/AlexChadwickP/task-manager)
