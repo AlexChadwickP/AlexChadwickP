@@ -1,48 +1,53 @@
-<p align="left">Hi! I'm Alex Chadwick, a Typescript Web Developer!<br><br>I mostly work on internal tools to faciliate the workflow of teams and make them more productive and efficient.</p>
+# Hey, I'm Alex 👋
 
-###
+I'm a Senior Software Engineer at [The Fusion Works](https://www.thefusionworks.com/), where I lead infrastructure and development work across multiple client projects. I specialize in building and deploying scalable cloud solutions, primarily in the Azure ecosystem.
 
-<img href="https://raw.githubusercontent.com/AlexChadwickP/AlexChadwickP/blob/output/snake.svg" alt="Snake animation" />
+## 🔧 What I Work With
 
-###
+**Cloud & Infrastructure**
+- Azure (App Services, Container Registry, Application Gateway, Key Vault, WAF)
+- Infrastructure as Code with Terraform
+- Docker containerization and deployment strategies
+- CI/CD pipelines (Bitbucket Pipelines, GitHub Actions)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" width="52" alt="windows8 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="52" alt="ubuntu logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" width="52" alt="azure logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="40" width="52" alt="bulma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" width="52" alt="rust logo"  />
-</div>
+**Development**
+- React & TypeScript (with TanStack Router)
+- Mobile development with Capacitor
+- Umbraco CMS & NextJS
+- Security scanning and vulnerability assessment (Snyk, TruffleHog)
 
-###
+**Security & DevOps**
+- Web Application Firewall configuration
+- Managed identities and RBAC
+- SSL/TLS certificate management
+- Blue-green deployments
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AlexChadwickP/count.svg?"  />
-</div>
+## 🌱 Currently
 
-###
+- Working towards Azure certifications (AZ-104 & AZ-305)
+- Building mobile apps with barcode scanning functionality
+- Experimenting with ESP32 firmware development
+- Self-hosting various services on Hetzner infrastructure
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/alexchadwickp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/TheAlexChadwick" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-</div>
+## 🏠 Self-Hosting Adventures
 
-###
+I run a collection of self-hosted services including:
+- Gitea for private repos
+- Firefly III for financial management
+- n8n for automation workflows
+- Nginx Proxy Manager for reverse proxying
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-light&locale=en&hide_border=false&custom_title=Stats&username=AlexChadwickP" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=solarized-light&hide_border=false&custom_title=Languages&username=AlexChadwickP" height="150" alt="languages graph"  />
-</div>
+## 💭 Beyond Code
 
-###
+When I'm not working with infrastructure or writing code, you'll find me:
+- Producing music and playing guitar
+- Cooking up something new in the kitchen
+- Exploring privacy-focused alternatives to commercial services
+
+## 📫 Let's Connect
+
+Feel free to reach out if you want to chat about Azure, infrastructure automation, or self-hosting setups!
+
+---
+
+*Based in the UK 🇬🇧*
