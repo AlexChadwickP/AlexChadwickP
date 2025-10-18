@@ -13,7 +13,6 @@ I'm a Senior Software Engineer at [The Fusion Works](https://www.thefusionworks.
 **Development**
 - React & TypeScript (with TanStack Router)
 - Mobile development with Capacitor
-- Umbraco CMS & NextJS
 - Security scanning and vulnerability assessment (Snyk, TruffleHog)
 
 **Security & DevOps**
@@ -25,8 +24,6 @@ I'm a Senior Software Engineer at [The Fusion Works](https://www.thefusionworks.
 ## 🌱 Currently
 
 - Working towards Azure certifications (AZ-104 & AZ-305)
-- Building mobile apps with barcode scanning functionality
-- Experimenting with ESP32 firmware development
 - Self-hosting various services on Hetzner infrastructure
 
 ## 🏠 Self-Hosting Adventures
